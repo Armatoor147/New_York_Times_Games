@@ -135,7 +135,7 @@ def store_feedback_information(try_1, feedback_1, known_present_letters, known_a
 
 
 st.set_page_config(page_title="Wordle Solver", layout="centered")
-st.title("🧠 Wordle Solver")
+st.title("Wordle Solver")
 
 # --- User-selectable strategy settings ---
 st.markdown("### Strategy Settings")
